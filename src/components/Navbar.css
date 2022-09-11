@@ -1,0 +1,118 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+
+    background-color: #ffffff;
+  }
+  
+  li {
+    float: left;
+    list-style: none;
+    font-family: 'Titillium Web';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    padding: 8px;
+    line-height: 24px;
+    background-color: #ffffff;
+
+    /* Font Color */
+    
+    color: #2C3E50;
+
+  }
+
+  li a{
+    display: block;
+    color: #666;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+ background-color: #FFFFFF;
+
+  }
+  
+
+ 
+
+
+  .nav-container{
+margin-top: 200px;
+  }
+  .nav{
+position: absolute;
+top:100px;
+width: 1296px;
+padding-left: 10px;
+
+display: flex;
+flex-direction: row;
+left: 100px;
+flex-direction: row;
+background-color: #FFFFFF;;
+border-radius: 5px;
+  }
+
+.profile{
+    background-color:#ffffff;
+    position: absolute;
+  margin-right:5px;
+display: flex;
+flex-direction: row;
+width: 900px;
+padding-left: 10px;
+display: flex;
+margin-top: 50px;
+}
+.nameOfProfile{
+background-color: white;
+margin-left: 40px;
+width: 227px;
+height: 30px;
+margin-top: 20px;
+
+
+position: absolute;
+
+height: 30px;
+left: 110px;
+
+
+}
+.nameOfProfile h4{
+font-family: 'Titillium Web';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 30px;
+background-color: #FFFFFF;
+/* Font Color */
+
+color: #2C3E50;
+}
+.nameOfProfile h5{
+
+    
+font-family: 'Titillium Web';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 27px;
+
+/* Font Color */
+background-color: #ffffff;
+color: #2C3E50;
+
+opacity: 0.8;
+}
+
+.Avator_pic{
+    margin-right: 20px;
+}
+.nav-link:hover{
+
+border-bottom: 3px solid #3498DB;
+}
+

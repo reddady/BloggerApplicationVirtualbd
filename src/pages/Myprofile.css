@@ -1,0 +1,121 @@
+
+.about_con
+{
+    position: absolute;
+    width: 1296px;
+    height: 720px;
+    margin-bottom: 25px;
+    left: 312px;
+    top: 400px;
+    left: 100px;
+    display: flex;
+    padding-top: 10px;
+    flex-direction: row;
+    margin-top: 20px;
+    border-radius: 5px;
+    background-color: #f3f3f3;
+
+
+
+
+
+
+
+    
+}
+.About{
+    width: 628px;
+    height: 239px;
+   padding: 25px;
+   margin-right: 25px;
+   background-color:  #FFFFFF;
+  border-radius: 5px;
+  padding-left: 40px;
+  padding-right: 50px;
+  padding-bottom: 43px;
+
+}
+
+.About p {
+    
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 21px;
+text-align: justify;
+
+color: #000000;
+
+}
+
+
+.About h3{
+    background-color:  #FFFFFF;
+    margin-bottom: 10px;
+
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 30px;
+    
+    /* Font Color */
+    
+    color: #2C3E50;
+    ;
+}
+.About_me{
+    font-family: 'Titillium Web';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    text-align: justify;
+    background-color:  #FFFFFF;
+
+
+
+    
+}
+.Container{
+    width: 628px;
+    height: 239px;
+    padding: 40px;
+    margin-left: 25px;
+    background-color:  #ffffff;
+    padding-left: 50px;
+  padding-right: 70px;
+  padding-bottom: 43px;
+ border-radius: 5px;
+}
+.Container h3{
+    background-color:  #ffffff;
+    font-family: 'Titillium Web';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 30px;
+padding-bottom: 20px;
+    /* Font Color */
+    
+    color: #2C3E50;
+
+}
+.Container p{
+
+font-family: 'Titillium Web';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 21px;
+background-color: #FFFFFF;
+/* Font Color */
+
+color: #2C3E50;
+}
+.Container span{
+    background-color:  #ffffff;
+    margin-left: 0px;
+   
+
+}
+

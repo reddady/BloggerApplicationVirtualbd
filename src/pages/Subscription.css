@@ -1,0 +1,257 @@
+
+.Information_div{
+    width: 851px;
+    position: absolute;
+     height: 800px;
+     border-radius: 5px;
+     padding: 30px;
+     
+     
+     background-color: #ffffff;
+    }
+    .title{
+    font-family: 'Titillium Web';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 30px;
+    background-color: #ffffff;
+    margin:0px;
+    /* Font Color */
+    background-color: #ffffff;
+    color: #2C3E50;}
+    .Information_div from{
+        position: relative;
+        max-height: 850px;
+    
+    }
+    
+    .Input_field_inline
+    {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 16px;
+    margin-right: 10px;
+    }
+    
+    .Input_field
+    {
+      background-color: #ffffff;
+        margin-top: 5px;
+        margin-bottom: 5px;
+        display: flex;
+        flex-direction: column;
+    }
+    .Input_field input{
+        height: 40px;
+        border-radius: 5px;
+        padding: 0 10px;
+        border: none;
+    
+        box-sizing: border-box;
+        display: inline-block;
+        border: 2px    solid rgb(255, 255, 255);
+    
+        background: #ECF0F1;
+        outline: none;
+    }
+    .Input_field label{
+        background-color: #ffffff;
+        font-family: 'Titillium Web';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 27px;
+    margin-bottom: 8px;
+    
+    /* Font Color */
+    
+    color: #2C3E50;
+    }
+    .Input_field_Bio input{
+    
+      background: #ECF0F1;
+    
+       
+        height: 136px;
+        border-radius: 5px;
+        padding: 10px;
+        border: none;
+        border-radius: 5px;
+        outline: none;
+    }
+    .Input_field_Bio
+    {
+        display: flex;
+        flex-direction: column;
+    }
+    .Input_field_Bio label{
+       
+        background-color: #ffffff;
+    }
+    
+    .from_field{
+        background-color: #ffffff;
+    }
+    .from{
+        background-color: #ffffff;
+    }
+    
+    
+    .FristName label{
+        background-color: #ffffff;
+    }
+    .FristName input{
+        background-color: #ffffff;
+    
+    }
+    
+    .from{
+        background-color: #ffffff;
+    }
+    .Input_field_Bio label{
+        font-family: 'Titillium Web';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 27px;
+    
+    
+    /* Font Color */
+    
+    color: #2C3E50;
+    }
+    .Buttontap{
+    margin-top: 20px;
+    
+    }
+    input [type=value], select{
+        
+    font-family: 'Titillium Web';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    
+    color: #ef4f4f;
+    
+    /* Inside auto layout */
+    
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    }
+    input[type=submit] {
+        width: 100%;
+       
+        background: #ffffff;
+        border-radius: 10px;
+        padding: 14px 20px;
+        margin: 8px 0;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+      }
+      .Input_field_inline input{
+        height: 40px;
+        border-radius: 5px;
+        padding: 0 10px;
+        border: none;
+        width: 200px;
+        box-sizing: border-box;
+        display: inline-block;
+        border: 2px    solid rgb(255, 255, 255);
+    
+        background: #ECF0F1;
+        outline: none;
+      }
+      .Input_field_inline label{
+        font-family: 'Titillium Web';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 18px;
+        line-height: 27px;
+      }
+      .Input_field_inline  {
+        background-color: #ffffff;
+     
+      }
+      .FristName{
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+        background-color: #ffffff;
+        margin-right:10px
+      }
+      .Last_name{
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+        margin-left: 10px;
+        background-color: #ffffff;
+      }
+      .Last_name label{
+        background-color: #ffffff;
+      }
+      .FristName label{
+        font-family: 'Titillium Web';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 18px;
+        line-height: 27px;
+        
+        /* Font Color */
+        
+        color: #2C3E50;
+      }
+    
+    .Last_name label{
+        font-family: 'Titillium Web';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 18px;
+        line-height: 27px;
+        
+        /* Font Color */
+        
+        color: #2C3E50;
+    }
+      .Fildes{
+        margin:0px;
+        padding:25px;
+        box-sizing: border-box;
+        background-color: #ffffff;
+      }
+      .button{
+        background-color: #3498DB;
+        border: none;
+        color: #FFFFFF;
+       width: 131px;
+        padding: 15px 32px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        margin: 4px 2px;
+        cursor: pointer;
+        display: block;
+        margin:0 auto;
+        border-radius: 10px;
+        
+      }
+      .InfoSe{
+        position: absolute;
+        width: 1296px;
+        height: 720px;
+        margin-bottom: 25px;
+        left: 312px;
+        top: 400px;
+        left: 100px;
+        display: flex;
+        padding-top: 10px;
+        flex-direction: column;
+        margin-top: 20px;
+        border-radius: 5px;
+        background-color:  #f3f3f3;
+    }
